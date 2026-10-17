@@ -17,5 +17,8 @@ Basado en el curso intermedio de power bi de Santander Open Academy
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/b23105cd-5586-47af-a184-a6a4ca4dd3ff" />
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/330693f2-747e-46eb-b8bb-e1ad047c2244" />
 
+relacion t_clientes con t_cursos
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/9f8b9b81-c555-40c4-ba5c-56898f8efdc9" />
 
+relacion t_materias con t_cursos
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/2d409b70-227b-4b5c-bf33-7f8b6b711c89" />
