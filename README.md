@@ -5,3 +5,7 @@ Basado en el curso intermedio de power bi de Santander Open Academy
 
 ## Modelo de datos estrella
 <img width="1440" height="533" alt="WhatsApp Image 2026-10-16 at 7 13 25 PM" src="https://github.com/user-attachments/assets/6a55d3b7-75fc-497e-ade2-d3c3031ddb17" />
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/adad5fec-e50e-4a7c-be1c-616c3b5626ad" />
+
+## Ir a la vista modelo
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/dee93426-7fbb-4c8f-b5c4-c631ae7459bf" />
