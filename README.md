@@ -30,3 +30,5 @@ relacion t_cursos con t_profesores
 
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/5906a52e-409e-495d-9aac-2bfd80ae162c" />
 
+## Estructura de modelo de datostipo estrella
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/98115055-84da-4e0f-bd0a-1e38ae324a83" />
