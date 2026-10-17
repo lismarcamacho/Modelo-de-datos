@@ -9,3 +9,4 @@ Basado en el curso intermedio de power bi de Santander Open Academy
 
 ## Ir a la vista modelo
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/dee93426-7fbb-4c8f-b5c4-c631ae7459bf" />
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/f7a8551d-cc8d-469a-9a40-37d42f7f608a" />
