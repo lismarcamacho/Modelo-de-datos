@@ -14,3 +14,8 @@ Basado en el curso intermedio de power bi de Santander Open Academy
 ## Creando una nueva relación
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/64bf7fd9-16af-4fff-a055-14c4be7199af" />
 
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/b23105cd-5586-47af-a184-a6a4ca4dd3ff" />
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/330693f2-747e-46eb-b8bb-e1ad047c2244" />
+
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/9f8b9b81-c555-40c4-ba5c-56898f8efdc9" />
+
