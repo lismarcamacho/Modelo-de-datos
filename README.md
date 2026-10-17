@@ -22,3 +22,11 @@ relacion t_clientes con t_cursos
 
 relacion t_materias con t_cursos
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/2d409b70-227b-4b5c-bf33-7f8b6b711c89" />
+
+
+relacion t_cursos con t_profesores
+
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/45a4a17d-3d49-4684-841d-c5e593c3ac37" />
+
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/5906a52e-409e-495d-9aac-2bfd80ae162c" />
+
