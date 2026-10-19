@@ -35,3 +35,6 @@ relacion t_cursos con t_profesores
 
 <img width="1376" height="507" alt="WhatsApp Image 2026-10-18 at 8 49 56 PM (1)" src="https://github.com/user-attachments/assets/2536382e-54f3-44cc-9cf4-0211fcc472b0" />
 <img width="1440" height="710" alt="WhatsApp Image 2026-10-18 at 9 16 29 PM" src="https://github.com/user-attachments/assets/96a6668f-9a90-458c-870d-4b44afd91f9e" />
+<img width="1440" height="774" alt="WhatsApp Image 2026-10-18 at 9 21 47 PM (1)" src="https://github.com/user-attachments/assets/f53f6c95-e3c8-425b-8665-ee78b09e6f2f" />
+<img width="1440" height="252" alt="WhatsApp Image 2026-10-18 at 9 23 14 PM (1)" src="https://github.com/user-attachments/assets/7a50c256-42df-49fd-b17b-082f5bffb4ec" />
+
